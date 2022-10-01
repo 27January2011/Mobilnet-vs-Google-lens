@@ -1,7 +1,6 @@
-body 
-{ 
-    background-size: cover;
-    background-position: center;
+body
+{
+    background-size: contain;
 }
 p{
     color: red;
@@ -66,3 +65,16 @@ h5 span{
     width: 50%;
 }
 
+
+
+
+
+
+
+
+/*body
+{
+    background-size: cover; 
+    background-position: center;
+}
+*/
